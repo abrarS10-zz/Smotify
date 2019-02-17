@@ -20,3 +20,7 @@ Abrar Sajeel
 ![userprofile](https://user-images.githubusercontent.com/47504295/52919464-c3bc6180-32d0-11e9-898e-776a668bc8f0.JPG)
 ### Change User data page
 ![userdetails](https://user-images.githubusercontent.com/47504295/52919465-c5862500-32d0-11e9-8bc3-5889e11bd6a1.JPG)
+### Website database
+![databases](https://user-images.githubusercontent.com/47504295/52919587-dbe0b080-32d1-11e9-867c-d4995431cb6c.JPG)
+### Songs database
+![songdatabase](https://user-images.githubusercontent.com/47504295/52919605-06cb0480-32d2-11e9-97ba-de1b8bb9802c.JPG)
